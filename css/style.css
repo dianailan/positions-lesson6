@@ -1,0 +1,29 @@
+/* ------------------------navigation------------- */
+.navigation li{
+  float: left;
+  margin-right: 44px;
+  margin-top: 50px;
+}
+.navigation img{
+  float: left;
+  margin-top: 24px;
+  margin-left: 140px;
+  margin-right: 120px;
+}
+.clear{
+  clear: both;
+}
+.nav-div{
+  margin-bottom: 24px;
+}
+/* ---------------------------------image section------------- */
+.container{
+  position: relative;
+}
+.txt-div{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #fff;
+
+}
